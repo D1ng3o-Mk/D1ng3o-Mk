@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate full stack web developer from Colombia</h3>
 
-- 🔭 I’m currently working on <a href="http://cliente-pf-e-commerce.herokuapp.com" target="blank" rel="noreferrer" >[ E-Commerce ]<</a>
+- 🔭 I’m currently working on <a href="http://cliente-pf-e-commerce.herokuapp.com" target="blank" rel="noreferrer" >[E-Commerce]</a>
 
 - 🌱 I’m currently learning **Vuejs, Typescript,**
 
